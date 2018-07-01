@@ -1,0 +1,18 @@
+select  - done
+text area
+checkbox/radio button
+validation
+img
+get entire form object 
+refresh data in another component - done
+share data between component    - done
+life cycle method
+react-router
+
+React.createClass
+
+redux
+context api
+
+var value = this.refs.filterInput.getDOMNode().value;
+        this.props.updateFilter(value);
